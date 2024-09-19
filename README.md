@@ -1,4 +1,4 @@
-** Movie Recommender System **
+**Movie Recommender System**
 Welcome to the Movie Recommender System! This project is designed to help users find and explore movies tailored to their taste. The system leverages a dataset of over 5000 movies, providing personalized recommendations based on user input.
 
 ** Introduction
